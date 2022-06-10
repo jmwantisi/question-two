@@ -88,6 +88,9 @@ const findMini = (params = {}) => {
 
 
 console.log(calculateMaxiMini(12340))
+console.log(calculateMaxiMini(98761))
+console.log(calculateMaxiMini(9000))
+console.log(calculateMaxiMini(357758017083851))
 
 
 
